@@ -44,6 +44,7 @@ Strong systems are built on strong fundamentals.
 
 ## Repository Structure
 
+```
 python-algorithms-for-systems/
 ├── arrays/
 ├── hashing/
@@ -53,9 +54,9 @@ python-algorithms-for-systems/
 ├── graphs/
 ├── heap/
 ├── dp/
-└── notes/
+├── notes/
 └── patterns.md
-
+```
 
 Each folder contains:
 - Clearly named problems
